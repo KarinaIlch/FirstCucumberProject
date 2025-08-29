@@ -18,5 +18,3 @@ gradlew/
 *.png
 
 .DS_Store
-# Project exclude paths
-/build/
